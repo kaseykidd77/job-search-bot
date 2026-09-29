@@ -40,7 +40,7 @@ const SOURCES = [
 const ROLE_KEYWORDS = [
   "caretaker", "care taker", "lighthouse", "light station", "keeper",
   "marina", "live aboard", "live-aboard", "liveaboard", "campground host",
-  "workamper", "workamping", "dockhand", "dock hand"
+  "workamper", "workamping", "dockhand", "dock hand", "Island caretaker", "island property manager", "Island grounds keeper" 
 ];
 
 // Keywords signalling paid compensation
